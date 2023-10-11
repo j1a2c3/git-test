@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("idea-hot-fix test");
         //push到远程库
         System.out.println("push 远程库");
+        //pull到远程库
+        System.out.println("pull 远程库到本地");
     }
 }
