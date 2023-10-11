@@ -10,5 +10,7 @@ public class GitTest {
         // merge conflict
         System.out.println("master test");
         System.out.println("idea-hot-fix test");
+        //push到远程库
+        System.out.println("push 远程库");
     }
 }
